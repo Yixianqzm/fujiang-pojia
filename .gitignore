@@ -1,0 +1,11 @@
+# 安装器本地日志（每台机器不同，不入库）
+install.log
+
+# 系统 / 编辑器噪音
+Thumbs.db
+desktop.ini
+.DS_Store
+*.swp
+.idea/
+.vscode/
+node_modules/
